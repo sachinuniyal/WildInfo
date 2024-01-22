@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Lion",
+        "photo": "lion.jpg",
+        "video": "lion.mp4",
+        "information": "The lion is a species in the cat family.",
+        "location": {
+            "latitude": 0,
+            "longitude": 0
+        },
+        "habitat": "Savannah"
+    },
+    // Add more wildlife data as needed
+]
